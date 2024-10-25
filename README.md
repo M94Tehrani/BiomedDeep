@@ -4,4 +4,5 @@ This repository contains various deep learning projects applied to biomedical da
 
 ## Table of Contents
 
-1. [Project1: Diabetes Classification]('./MLP - Diabetes Prediction/README.md')
+1. [Project1: Diabetes Classification]('https://github.com/M94Tehrani/BiomedDeep/tree/main/MLP%20-%20Diabetes%20Prediction/README.md')
+2. 
